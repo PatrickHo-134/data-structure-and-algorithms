@@ -14,9 +14,9 @@ Feel free to explore, learn, and contribute!
 ## 📝 Topics Covered (Will be updated frequently)
 
 ### Data Structures:
-- [] Arrays
+- [x] Arrays
 - [x] Linked Lists
-- [] Stacks & Queues
+- [x] Stacks & Queues
 - [] Trees & Binary Trees
 - [x] Graphs
 - [] Hash Tables
